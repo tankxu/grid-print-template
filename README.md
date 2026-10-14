@@ -2,6 +2,8 @@
 
 可参数化的英文三线格和方格纸打印工具。纯 HTML、CSS、JavaScript，无外部依赖，配置保存在浏览器本地。
 
+在线使用：[空白网格打印模板](https://grid-print-template.pages.dev/)（Cloudflare Pages）
+
 ## 使用
 
 直接用浏览器打开 `index.html`，选择模板并调整参数，点击“打印 / 存为 PDF”。
